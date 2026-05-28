@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycetch",
+        "uuid": 32667024,
+        "checksum": "y5dhyb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
